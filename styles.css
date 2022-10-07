@@ -1,19 +1,20 @@
 body{
-    background:plum;
-    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(40, 111, 72);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.Assignment{
-    display:flex;
+.Assignments{
+    display: flex;
     padding:10px;
-    background: lightgray;
+    margin: 10px;
+    background: rgb(241, 171, 219);
 }
 
-.Assignment img {
+.Assignments img {
     width: 200px;
     padding: 10px;
 }
 h1{
-    color: darkblue;
+    color: rgb(255, 145, 222);
     text-align: center;
 }
