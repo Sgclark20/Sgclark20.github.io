@@ -1,48 +1,57 @@
-body{
-    background: rgb(69, 101, 133);
+body{ 
+    background: rgb(69, 101, 133); 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+} 
 
-.assignmet{
-    display:flex;
-    flex-wrap: wrap;
-}
+ 
+ 
 
-.Assignments{
-    width:30%;
-    padding:10px;
-    margin: 10px;
-    padding: 20px 10px;
-    background: #c5bebe;
-    border-radius: 10px;
-}
+.assignmet{ 
+    display:flex; 
+    flex-wrap: wrap; 
+} 
 
-.Assignments img {
-    width: 200px;
-    border: 2px solid white;
-    display:block;
-    margin:center;
-    margin: 20px 
-}
 
-.Assingment img:hover {
-    border: 2px solid #085671;
-}
-   
-h1{
-    color: #fffceb;
-    text-align: center;
-}
+.assignments{ 
+    width:30%; 
+    padding:10px; 
+    margin: 10px; 
+    padding: 20px 10px; 
+    background: #c5bebe; 
+    border-radius: 10px; 
+} 
 
-h2{
-    text-align: center;
-}
+.assignments img { 
+    width: 200px; 
+    border: 2px solid white; 
+    display:block; 
+    margin:auto; 
+    margin: 20px  
+} 
 
-a {
-    text-decoration: none;
-    color: #fffceb;
-}
 
-a:hover{
-    color:#085671;
-}
+.assingment img:hover { 
+    border: 2px solid #085671; 
+} 
+
+h1{ 
+    color: #fffceb; 
+    text-align: center; 
+} 
+
+h2{ 
+    text-align: center; 
+} 
+
+ 
+a { 
+    text-decoration: none; 
+    color: #fffceb; 
+} 
+
+
+a:hover{ 
+    color:#085671; 
+} 
+
+ 
